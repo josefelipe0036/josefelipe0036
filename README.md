@@ -3,13 +3,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Sou+o+José+Felipe!;Sou+estudante+de+Estatística+na+UnB!;Minha+motivação+para+estudar+estatística;é+lembrar+que+os+dados;não+se+limitam+a+números.;29)](https://git.io/typing-svg)
 
 ## Habilidades em:
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![tidyverse](https://img.shields.io/badge/tidyverse-000?style=for-the-badge&logo=R)
-![ggplot2](https://img.shields.io/badge/ggplot2-000?style=for-the-badge&logo=R)
-![shiny](https://img.shields.io/badge/shiny-000?style=for-the-badge&logo=R)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+<div align="center">
+  
+[![tidyverse](https://tidyverse.tidyverse.org/logo.png)](https://tidyverse.tidyverse.org)
+<img src="https://tibble.tidyverse.org/logo.svg" width="240px">
+![Image](https://dplyr.tidyverse.org/logo.png)
+![Image](https://tidyr.tidyverse.org/logo.png)
+<img src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" width="240px">
+![Image](https://ggplot2.tidyverse.org/logo.png)
+<img src= "https://img.freepik.com/free-icon/snakes_318-368381.jpg" width="240px">
+<img src= "https://liibre.github.io/Latin-R/figs/rmarkdown.png" width="240px">
+<img src= "https://www.r-project.org/Rlogo.png" width="250px">
+
+<img src= "https://cdn.icon-icons.com/icons2/2235/PNG/512/linux_os_logo_icon_134670.png" width="240px">
+</div>
+
 
 ## GitHub Streak and Linguagens mais usadas
 <div align="center">
