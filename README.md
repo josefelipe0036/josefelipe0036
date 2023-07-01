@@ -17,5 +17,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefelipe0036&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Linguagens mais usadas" />
 </div>
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=josefelipe0036&bg_color=6acbec&color=ffffff&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jos%C3%A9-felipe-83154397/)
