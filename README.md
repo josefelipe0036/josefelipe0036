@@ -13,12 +13,11 @@
 
 ## GitHub Streak and Linguagens mais usadas
 <div align="center">
-  <a href="https://git.io/streak-stats"><img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=josefelipe0036&theme=dracula" alt="GitHub Streak" /></a>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefelipe0036&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Linguagens mais usadas" />
+  <a href="https://git.io/streak-stats"><img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=josefelipe0036&theme=transparent" alt="GitHub Streak" /></a>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefelipe0036&layout=compact&&theme=transparent&show_icons=true" alt="Linguagens mais usadas" />
 </div>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=josefelipe0036&bg_color=6acbec&color=ffffff&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josefelipe0036&bg_color=000000&color=ffffff&line=55ceec&point=2492c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jos%C3%A9-felipe-83154397/)
