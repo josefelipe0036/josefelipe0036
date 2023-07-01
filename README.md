@@ -17,6 +17,9 @@ Minha principal motivação para trabalhar com estatística é constantemente le
 [![GitHub Streak](https://streak-stats.demolab.com?user=josefelipe0036&theme=ambient-gradient)](https://git.io/streak-stats)
 
 
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=josefelipe0036&bg_color=6acbec&color=ffffff&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Linguagens mais usadas
 ![ ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josefelipe0036&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
